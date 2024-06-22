@@ -63,6 +63,7 @@ const Loader = ({ setLoading }) => {
               layoutId="main-image"
               src="/visa-application-composition-with-canadian-flag.jpg"
               className="rounded-md w-[500px]"
+              alt="img"
             />
           </motion.div>
           <motion.div
@@ -74,6 +75,7 @@ const Loader = ({ setLoading }) => {
               width={225}
               className="opacity-90 rounded-md"
               src="/hands-writing-business-documents-desk-concept.jpg"
+              alt="img"
             />
           </motion.div>
           <motion.div
@@ -85,6 +87,7 @@ const Loader = ({ setLoading }) => {
               width={250}
               className="opacity-90 rounded-md"
               src="/journey-1130732_1280.jpg"
+              alt="img"
             />
           </motion.div>
           <motion.div
@@ -96,6 +99,7 @@ const Loader = ({ setLoading }) => {
               width={175}
               className="opacity-90 rounded-md"
               src="/colleagues-reading-using-laptop-study-session.jpg"
+              alt="img"
             />
           </motion.div>
           <motion.div
@@ -107,6 +111,7 @@ const Loader = ({ setLoading }) => {
               height={225}
               width={225}
               className="opacity-90 rounded-md"
+              alt="img"
             />
           </motion.div>
         </motion.div>

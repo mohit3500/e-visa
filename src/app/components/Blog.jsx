@@ -10,6 +10,7 @@ const Blog = () => {
         <div className="flex-[2.2] relative overflow-hidden">
           <Image
             src="/full-shot-happy-couple-traveling.jpg"
+            alt="img"
             fill
             sizes="100vw"
             style={{

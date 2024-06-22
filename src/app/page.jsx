@@ -197,6 +197,7 @@ const HomePage = () => {
                   transition={{ ease: [0.6, 0.01, 0.05, 0.9], duration: 1.3 }}
                   layoutId="main-image"
                   src="/visa-application-composition-with-canadian-flag.jpg"
+                  alt="img"
                   className="rounded-xl"
                 />
               </div>

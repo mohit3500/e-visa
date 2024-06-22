@@ -48,7 +48,7 @@ const Partners = ({ items }) => {
             }}
           >
             {items.map((item, index) => (
-              <SwiperSlide>
+              <SwiperSlide key={index}>
                 <div className={`min-w-[230px] mb-16`}>{item}</div>
               </SwiperSlide>
             ))}

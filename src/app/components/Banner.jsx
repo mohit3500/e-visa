@@ -37,6 +37,7 @@ const Banner = () => {
         <div className="flex items-center justify-center relative h-full w-full px-3">
           <Image
             src="/united-kingdom-flag_11654500.png"
+            alt="img"
             width={20}
             height={20}
           />
@@ -44,6 +45,7 @@ const Banner = () => {
             src="/united-states_4855884.png"
             width={20}
             height={20}
+            alt="img"
             className="absolute bottom-0 left-0"
           />
         </div>
